@@ -1,0 +1,12 @@
+{
+  "packages": [
+    {
+      "name": "models",
+      "path": "./models",
+      "schema": "./schema",
+      "queries": "./query",
+      "emit_json_tags": true,
+      "emit_prepared_queries": false
+    }
+  ]
+}
